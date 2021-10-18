@@ -1,1 +1,2 @@
-# automated-build-sample
+# Integration Argocd with github
+GITOPS time
