@@ -1,2 +1,2 @@
 # Integration Argocd with github
-GITOPS time
+Deploy with argocd
